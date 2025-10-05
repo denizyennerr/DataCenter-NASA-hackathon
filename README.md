@@ -12,7 +12,8 @@ By combining NASA satellite observations with local information (water resources
 
 
 ### **Resources:**
-1- *Data Source:*
+("""
+1-*Data Source:*
     * Center for International Earth Science Information Network (CIESIN), Columbia University. (2018). Gridded Population of the World, Version 4 (GPWv4): Population Density, Revision 11 [Data set]. NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H49C6VHW
     * City of Chicago. (2025). Chicago Energy Benchmarking [Data set]. Chicago Data Portal. Retrieved October 5, 2025, from https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking/xq83-jr8c/about_data
     * NASA Langley Research Center (LaRC) POWER Project. (2025). NASA Prediction of Worldwide Energy Resources (Version 9.0.1) [Data set]. NASA. Retrieved October 5, 2025, from https://power.larc.nasa.gov/data-access-viewer/
