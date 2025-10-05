@@ -13,14 +13,21 @@ By combining NASA satellite observations with local information (water resources
 
 ### **Resources:**
 **Data Source:**
-    * Center for International Earth Science Information Network (CIESIN), Columbia University. (2018). Gridded Population of the World, Version 4 (GPWv4): Population Density, Revision 11 [Data set]. NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H49C6VHW
-    * City of Chicago. (2025). Chicago Energy Benchmarking [Data set]. Chicago Data Portal. Retrieved October 5, 2025, from https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking/xq83-jr8c/about_data
-    * NASA Langley Research Center (LaRC) POWER Project. (2025). NASA Prediction of Worldwide Energy Resources (Version 9.0.1) [Data set]. NASA. Retrieved October 5, 2025, from https://power.larc.nasa.gov/data-access-viewer/
+    
+   * Center for International Earth Science Information Network (CIESIN), Columbia University.
+   * (2018). Gridded Population of the World, Version 4 (GPWv4): Population Density, Revision 11 [Data set].
+   * NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H49C6VHW
+   *  City of Chicago. (2025).
+   *  Chicago Energy Benchmarking [Data set].
+   *  Chicago Data Portal. Retrieved October 5, 2025, from https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking/xq83-jr8c/about_data
+   *  NASA Langley Research Center (LaRC) POWER Project. (2025). NASA Prediction of Worldwide Energy Resources (Version 9.0.1) [Data set]. NASA. Retrieved October 5, 2025, from https://power.larc.nasa.gov/data-access-viewer/
     * NASA Near Real-Time Capability for Earth Observation (LANCE). (2024). VIIRS Land Near Real-Time Data [Data set]. NASA Earthdata. Retrieved October 4, 2025, from https://www.earthdata.nasa.gov/data/instruments/viirs/land-near-real-time-data
-    * Natural Earth. (2023). Admin 0 – Countries (Version 5.1.1) [Data set]. https://www.naturalearthdata.com/downloads/10m-cultural-vectors/
+    * Natural Earth. (2023). Admin 0 – Countries (Version 5.1.1) [Data set]. ttps://www.naturalearthdata.com/downloads/10m-cultural-vectors/
     * Natural Earth. (2023). Admin 1 – States, Provinces (Version 5.1.1) [Data set]. https://www.naturalearthdata.com/downloads/10m-cultural-vectors/
-    * The MOPITT Science Team. (2021). MOPITT Level 3 Carbon Monoxide (CO) Gridded Monthly Averages (MOP03M) (Version 9) [Data set]. NASA Langley Atmospheric Science Data Center DAAC. https://doi.org/10.5067/TERRA/MOPITT/MOP03M.009
-    * U.S. Geological Survey (USGS) and National Aeronautics and Space Administration (NASA). (2022). Landsat 8–9 Collection 2 Level-2 Surface Reflectance Code (LaSRC) Product. NASA Earth Science Data Systems (ESDS) Program, Land Processes Distributed Active Archive Center (LP DAAC). https://doi.org/10.5066/P9OGBGM6
+    * The MOPITT Science Team. (2021). MOPITT Level 3 Carbon Monoxide (CO) Gridded Monthly Averages (MOP03M) (Version 9) [Data set].
+      NASA Langley Atmospheric Science Data Center DAAC. https://doi.org/10.5067/TERRA/MOPITT/MOP03M.009
+    * U.S. Geological Survey (USGS) and National Aeronautics and Space Administration (NASA). (2022). Landsat 8–9 Collection 2 Level-2 Surface Reflectance Code (LaSRC) Product.
+    * NASA Earth Science Data Systems (ESDS) Program, Land Processes Distributed Active Archive Center (LP DAAC). https://doi.org/10.5066/P9OGBGM6
 
 **Software & Libraries:**
     * Figma, Inc. (2025). Figma [Computer software]. https://www.figma.com
