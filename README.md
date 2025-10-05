@@ -21,7 +21,7 @@ By combining NASA satellite observations with local information (water resources
    *  Chicago Energy Benchmarking [Data set].
    *  Chicago Data Portal. Retrieved October 5, 2025, from https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking/xq83-jr8c/about_data
    *  NASA Langley Research Center (LaRC) POWER Project. (2025). NASA Prediction of Worldwide Energy Resources (Version 9.0.1) [Data set]. NASA. Retrieved October 5, 2025, from https://power.larc.nasa.gov/data-access-viewer/
-    * NASA Near Real-Time Capability for Earth Observation (LANCE). (2024). VIIRS Land Near Real-Time Data [Data set]. NASA Earthdata. Retrieved October 4, 2025, from https://www.earthdata.nasa.gov/data/instruments/viirs/land-near-real-time-data
+   * NASA Near Real-Time Capability for Earth Observation (LANCE). (2024). VIIRS Land Near Real-Time Data [Data set]. NASA Earthdata. Retrieved October 4, 2025, from https://www.earthdata.nasa.gov/data/instruments/viirs/land-near-real-time-data
     * Natural Earth. (2023). Admin 0 – Countries (Version 5.1.1) [Data set]. ttps://www.naturalearthdata.com/downloads/10m-cultural-vectors/
     * Natural Earth. (2023). Admin 1 – States, Provinces (Version 5.1.1) [Data set]. https://www.naturalearthdata.com/downloads/10m-cultural-vectors/
     * The MOPITT Science Team. (2021). MOPITT Level 3 Carbon Monoxide (CO) Gridded Monthly Averages (MOP03M) (Version 9) [Data set].
