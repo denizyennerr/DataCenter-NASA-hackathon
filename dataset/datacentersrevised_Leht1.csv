@@ -1,0 +1,186 @@
+Veerg 1,Continent / region,Location,Country,Latitude,Longitude,Year Established
+Google,,Melbourne,Austrália,-378147,1449592,
+Google,,Sydney,Austrália,-338698,1512083,
+Google,,Santiago,Chile,-333585,-706973,
+Google,,São Paulo,Brasil,-235328,-467919,
+Google,,Jacarta,Indonésia,-61750,1068266,
+Azure,Australia Southeast,Victoria,Austrália,-37.81,144.971,
+Azure,New Zealand North,Auckland,Nova Zelândia,-36.84,174.76,
+Azure,Australia Central 2,Canberra,Austrália,-35.3,149.12,
+Azure,South Africa West,Cidade do Cabo,África do Sul,-33.92,18.42,
+Amazon,Australia,Sydney,Australia,-33.8688,151.2093,
+equinix,Asia,Sydney,Australia,-33.8688,151.2093,
+IBM,Asia,Sydney,Australia,-33.8688,151.2093,
+Azure,Australia East,Nova Gales do Sul,Austrália,-33.86,151.2,
+Azure,Chile Central,Santiago,Chile,-33.44,-70.66,
+Google,North America,The Quilicura Metropolitan Area,Chile,-33.3096,-70.8503,2015
+Azure,South Africa North,Joanesburgo,África do Sul,-26.11,28.052,
+Amazon,South America,São Paulo,Brazil,-23.5505,-46.6333,-
+Azure,Brazil South,Estado de São Paulo,Brasil,-23.5,-46.625,
+Azure,Brazil Southeast,Rio de Janeiro,Brasil,-22.9,-43.17,
+IBM,South America,"Hortolândia, São Paulo",Brazil,-22.8525,-47.2167,-
+Azure,Indonesia Central,Jacarta,Indonésia,-6.2,106.84,
+Microsoft,Asia,Singapore,Singapore,1.3343,103.9844,2015
+Alibaba,Asia,Singapore,Singapore,1.3521,103.8198,-
+Amazon,Asia,Singapore,Singapore,1.3521,103.8198,-
+equinix,Asia,Singapore,Singapore,1.3521,103.8198,-
+Meta,Asia,Singapore,Singapore,1.3584,103.8894,2015
+Google,Asia,Singapore,Singapore,1.3667,103.8,2013
+Azure,Southeast Asia,Singapura,Ásia-Pacífico,1.37,103.98 23,
+Azure,Malaysia West,Kuala Lumpur,Malásia,3.13,101.68,
+Microsoft,Asia,Chennai,India,12.8508,80.2327,2015
+Azure,South India,Chennai,Índia,13.08,80.27,
+IBM,Asia,Chennai,India,13.0827,80.2707,-
+Azure,Central India,Pune,Índia,18.52,73.85,
+Microsoft,Asia,Mumbai,India,18.9533,72.8225,2015
+Amazon,Asia,Mumbai,India,19.076,72.8777,-
+IBM,North America,Querétaro,Mexico,20.5888,-100.3899,-
+Azure,East Asia,Hong Kong SAR,Ásia-Pacífico,22.31,114.16,
+Alibaba,Asia,Hong Kong,Hong Kong,22.3193,114.1694,-
+Microsoft,Asia,Hong Kong,Hong Kong,22.3193,114.1694,2014
+Alibaba,Asia,Shenzhen,China,22.5431,114.0579,-
+Google,Asia,Changhua County,Taiwan,24.0494,120.5164,2013
+Meta,Asia,Changhua County,Taiwan,24.0494,120.5164,2016
+Azure,UAE Central,Abu Dhabi,EAU,24.45,54.37,
+Azure,UAE North,Dubai,EAU,25.2,55.27,
+Alibaba,Middle East,Dubai,UAE,25.276987,55.296249,-
+Azure,Qatar Central,Doha,Catar,25.28,51.53,
+apple,Asia,Guiyang,China,26.6361,106.6303,-
+Microsoft,North America,"San Antonio, Texas",United States,29.4997,-98.3992,2008
+Alibaba,Asia,Hangzhou,China,30.2741,120.1551,-
+Azure,South Central US,Texas,Estados Unidos,31.16,-100.07 21,
+Alibaba,Asia,Shanghai,China,31.2304,121.4737,-
+Azure,Israel Central,Israel,Israel,32,34.901,
+Meta,North America,"Fort Worth, Texas",United States,32.7357,-97.4344,2017
+equinix,North America,"Dallas, Texas",United States,32.7767,-96.797,-
+IBM,North America,"Dallas, Texas",United States,32.7767,-96.797,-
+Google,North America,"Berkeley County, South Carolina",United States,33.1239,-80.0373,2008
+Azure,West US 3,Phoenix,Estados Unidos,33.44,-112.07,
+equinix,North America,"Los Angeles, California",United States,34.0522,-118.2437,-
+Azure,Japan West,Osaka,Japão,34.67,135.46 14,
+Meta,North America,"Los Lunas, New Mexico",United States,34.743,-106.7334,2019
+Azure,Korea South,Busan,Coreia,35.17,129.07,
+Meta,North America,"Forest City, North Carolina",United States,35.3343,-81.8656,2011
+apple,North America,"Maiden, North Carolina",United States,35.6543,-81.218,2010
+Azure,Japan East,"Tóquio, Saitama",Japão,35.68,139.7712,
+Alibaba,Asia,Tokyo,Japan,35.6825,139.7545,-
+Amazon,Asia,Tokyo,Japan,35.6825,139.7545,-
+equinix,Asia,Tokyo,Japan,35.6825,139.7545,-
+IBM,Asia,Tokyo,Japan,35.6825,139.7545,-
+Google,North America,"Lenoir, North Carolina",United States,35.758,-81.5505,2007
+Microsoft,North America,"Boydton, Virginia",United States,36.6534,-78.3717,2010
+Azure,West US,Califórnia,Estados Unidos,36.77,-119.41,
+Meta,North America,"Henrico County, Virginia",United States,37.5129,-77.32,2020
+Azure,East US,Virgínia,Estados Unidos,37.52,-78.858,
+apple,North America,"Newark, California",United States,37.529,-122.0446,-
+Amazon,Asia,Seoul,South Korea,37.5665,126.978,-
+IBM,Asia,Seoul,South Korea,37.5665,126.978,-
+Azure,Korea Central,Seul,Coreia,37.57,126.9715,
+Amazon,North America,"Ashburn, Virginia",United States,39.0215,-77.4579,-
+equinix,North America,"Ashburn, Virginia",United States,39.0215,-77.4579,-
+Alibaba,Asia,Beijing,China,39.9042,116.4074,-
+Amazon,North America,"Dublin, Ohio",United States,40.1386,-83.0901,-
+Azure,Spain Central,Madrid,Espanha,40.41,-3.7,
+Azure,North Central US,Illinois,Estados Unidos,40.63,-89.39,
+equinix,North America,"New York City, New York",United States,40.7128,-74.006,-
+Microsoft,North America,"Cheyenne, Wyoming",United States,41.14,-104.8202,2013
+Meta,Asia,"Papillion, Nebraska",United States,41.1544,-96.0419,2020
+Google,North America,"Council Bluffs, Iowa",United States,41.2628,-95.8608,2009
+Microsoft,North America,"Des Moines, Iowa",United States,41.6342,-93.6443,2015
+Meta,North America,"Altoona, Iowa",United States,41.6392,-93.4758,2014
+Azure,Central US,Iowa,Estados Unidos,41.87,-93.09,
+equinix,North America,"Chicago, Illinois",United States,41.8781,-87.6298,-
+Microsoft,North America,"Chicago, Illinois",United States,41.8819,-87.6278,2015
+Azure,West Central US,Wyoming,Estados Unidos,43,-107.5528,
+Azure,France South,Marselha,França,43.29,5.36,
+Azure,Canada Central,Toronto,Canadá,43.63,-79.406,
+equinix,North America,"Toronto, Ontario",Canada,43.651,-79.347,-
+IBM,North America,"Toronto, Ontario",Canada,43.651,-79.347,-
+Meta,North America,"Prineville, Oregon",United States,44.1094,-120.5908,2011
+Azure,Italy North,Milão,Itália,45.46,9.19,
+IBM,Europe,Milan,Italy,45.4642,9.19,-
+Amazon,North America,"Montreal, Quebec",Canada,45.504,-73.5747,-
+Google,North America,"The Dalles, Oregon",United States,45.5946,-121.1787,2006
+Amazon,North America,"Boardman, Oregon",United States,45.8696,-119.688,-
+Azure,Switzerland West,Genebra,Suíça,46.2,6.14,
+Azure,Canada East,Quebec,Canadá,46.81,-71.2,
+Azure,West US 2,Washington,Estados Unidos,47.27,-120.883,
+Microsoft,North America,"Quincy, Washington",United States,47.3769,-119.6389,2007
+Azure,Switzerland North,Zurique,Suíça,47.38,8.5725,
+equinix,North America,"Seattle, Washington",United States,47.6062,-122.3321,-
+Azure,Austria East,Viena,Áustria,48.2,16.373,
+Azure,France Central,Paris,França,48.85,2.35,
+equinix,Europe,Paris,France,48.8566,2.3522,-
+Azure,Germany West Central,Frankfurt,Alemanha,50.11,8.68,
+Alibaba,Europe,Frankfurt,Germany,50.1109,8.6821,-
+Amazon,Europe,Frankfurt,Germany,50.1109,8.6821,-
+equinix,Europe,Frankfurt,Germany,50.1109,8.6821,-
+IBM,Europe,Frankfurt,Germany,50.1109,8.6821,-
+Google,Europe,St. Ghislain,Belgium,50.4691,3.8183,2009
+Azure,Belgium Central,Bruxelas,Bélgica,50.85,4.35,
+Azure,UK West,Cardiff,Reino Unido,51.48,-3.17,
+Azure,UK South,Londres,Reino Unido,51.5,-0.12,
+Alibaba,Europe,London,United Kingdom,51.5074,-0.1278,-
+Amazon,Europe,London,United Kingdom,51.5074,-0.1278,-
+equinix,Europe,London,United Kingdom,51.5074,-0.1278,-
+IBM,Europe,London,United Kingdom,51.5074,-0.1278,-
+Azure,Poland Central,Varsóvia,Polónia,52.16,20.9618,
+Azure,West Europe,Países Baixos,Europa,52.36,4.9,
+equinix,Europe,Amsterdam,Netherlands,52.3667,4.8945,-
+Azure,Germany North,Berlim,Alemanha,52.52,13.4,
+Microsoft,Europe,Middenmeer,Netherlands,52.87,5.015,2019
+Azure,North Europe,Irlanda,Europa,53.34,-6.26,
+Amazon,Europe,Dublin,Ireland,53.3438,-6.2712,-
+Microsoft,Europe,Dublin,Ireland,53.3478,-6.2597,2009
+Microsoft,Europe,Grange Castle,Ireland,53.3481,-6.4391,2012
+Google,Europe,Dublin,Ireland,53.427,-6.2448,2012
+Google,Europe,Eemshaven,Netherlands,53.4373,6.8637,2016
+Meta,Europe,"Clonee, County Meath",Ireland,53.4808,-6.5011,2018
+Meta,Europe,Odense,Denmark,55.4077,10.3898,2020
+apple,Europe,Viborg,Denmark,56.46,9.4,-
+Azure,Norway West,Noruega,Noruega,58.96,5.73,
+Azure,Norway East,Noruega,Noruega,59.91,10.75,
+Google,Europe,Hamina,Finland,60.5693,27.209,2011
+Azure,Sweden Central,Gävle,Suécia,60.67,17.14,
+Meta,Europe,Luleå,Sweden,65.5848,22.1567,2013
+Google,,Mumbai,Índia,190364,728595,
+Google,,Hong Kong,Hong Kong,223565,1141363,
+Google,,Changhua County,Taiwan,241385,1204257,
+Google,,Doha,Qatar,252867,515333,
+Google,,Delhi,Índia,286139,772090,
+Google,,Tel Aviv,Israel,320000,349000,
+Google,,Midlothian,EUA,324432,-970623,
+Google,,Moncks Corner,EUA,330641,-800434,
+Google,,Atlanta,EUA,337497,-845848,
+Google,,Los Angeles,EUA,340500,-1182500,
+Google,,Osaka,Japão,346804,1354547,
+Google,,Tóquio,Japão,356667,1398167,
+Google,,Inzai,Japão,358178,1401324,
+Google,,Lenoir,EUA,358986,-815474,
+Google,,Henderson,EUA,360556,-1150102,
+Google,,Pryor Creek,EUA,362411,-953301,
+Google,,Clarksville,EUA,366212,-872631,
+Google,,Seul,Coreia do Sul,375700,1269700,
+Google,,Arcola,EUA,389433,-775243,
+Google,,Leesburg,EUA,390518,-775390,
+Google,,Columbus,EUA,399622,-830007,
+Google,,New Albany,EUA,400613,-827586,
+Google,,Madrid,Espanha,405195,-33409,
+Google,,Salt Lake City,EUA,407500,-1118833,
+Google,,Council Bluffs,EUA,412216,-958639,
+Google,,Toronto,Canadá,436532,-793832,
+Google,,Turim,Itália,450703,7.6869,
+Google,,Milão,Itália,454500,9.28,
+Google,,Montreal,Canadá,455200,-734200,
+Google,,Zurique,Suíça,473769,8.5417,
+Google,,Paris,França,488600,2.35,
+Google,,Singapura,Singapura,1.324,1036933,
+Google,,Frankfurt,Alemanha,501226,8.9742,
+Google,,Saint-Ghislain,Bélgica,504693,3.8655,
+Google,,Londres,Reino Unido,515156,-934,
+Google,,Varsóvia,Polónia,522297,210122,
+Google,,Middenmeer,Países Baixos,527901,5.0292,
+Google,,Dublin,Irlanda,533201,-64421,
+Google,,Eemshaven,Países Baixos,534252,6.8623,
+Google,,Fredericia,Dinamarca,555582,9.6558,
+Google,,Hamina,Finlândia,605366,271170,
