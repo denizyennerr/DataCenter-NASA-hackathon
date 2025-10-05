@@ -21,6 +21,7 @@ By combining NASA satellite observations with local information (water resources
     * Natural Earth. (2023). Admin 1 – States, Provinces (Version 5.1.1) [Data set]. https://www.naturalearthdata.com/downloads/10m-cultural-vectors/
     * The MOPITT Science Team. (2021). MOPITT Level 3 Carbon Monoxide (CO) Gridded Monthly Averages (MOP03M) (Version 9) [Data set]. NASA Langley Atmospheric Science Data Center DAAC. https://doi.org/10.5067/TERRA/MOPITT/MOP03M.009
     * U.S. Geological Survey (USGS) and National Aeronautics and Space Administration (NASA). (2022). Landsat 8–9 Collection 2 Level-2 Surface Reflectance Code (LaSRC) Product. NASA Earth Science Data Systems (ESDS) Program, Land Processes Distributed Active Archive Center (LP DAAC). https://doi.org/10.5066/P9OGBGM6
+
 2- *Software & Libraries:*
     * Figma, Inc. (2025). Figma [Computer software]. https://www.figma.com
     * Plotly Technologies Inc. (2023). Plotly Python Open Source Graphing Library (Version 5.18.0) [Computer software]. https://plotly.com/python/
