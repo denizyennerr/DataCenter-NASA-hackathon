@@ -32,3 +32,6 @@ By combining NASA satellite observations with local information (water resources
     * Guidi, G., Dominici, F., Gilmour, J., Butler, K., Bell, E., Delaney, S., & Bargagli-Stoffi, F. J. (2024). Environmental Burden of United States Data Centers in the Artificial Intelligence Era. [Preprint]. arXiv:2411.09786v1. https://arxiv.org/abs/2411.09786
     * Ngata, W., Bashir, N., Westerlaken, M., Liote, L., Chandio, Y., & Olivetti, E. (2025). The Cloud Next Door: Investigating the Environmental and Socioeconomic Strain of Datacenters on Local Communities. [Preprint]. arXiv:2506.03367. https://arxiv.org/abs/2506.03367""")
 
+### The team: 
+- Cristal Rivera, Ligia Anjos, Deniz Yener, Myrnelle Cinco, Venus Schwidorowski
+
